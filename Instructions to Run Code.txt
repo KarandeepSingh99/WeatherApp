@@ -1,0 +1,6 @@
+# Go to WeatherApp directory with cd WeatherApp
+# Install dependencies with npm install
+# Run npm start
+# You can search city with input search box.After typing location click search icon
+# The searched location weather will be shown in list below and also history of searches will be shown
+# When we click on any searched history location mentioned in table below search box that location weather will be shown 
